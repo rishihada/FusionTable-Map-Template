@@ -69,10 +69,10 @@ You can configure your map by passing in a dictionary of options when you create
 ```javascript
 var myMap = new MapsLib({
   fusionTableId:      "17w_ismAsQCSnGJ1kiVX6IxnGn7HQq7hTCbPR9tT2",
-  googleApiKey:       "AIzaSyA3FQFrNr5W2OEVmuENqhb2MBB2JabdaOY",
-  locationColumn:     "geometry",
-  map_center:         [41.8781136, -87.66677856445312],
-  locationScope:      "chicago"
+  googleApiKey:       "AIzaSyATokyYb1RQXwl3vYm3T4LhohRfdez6S1U",
+  locationColumn:     "latitude",
+  map_center:         [28.4717136, 77.05966445312],
+  locationScope:      "delhi"
 });
 ```
 
@@ -109,7 +109,7 @@ If you want to embed the template in a page on your website, the easiest way to 
 
 [![Searchable Map Template iframe screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-iframe.png)](http://derekeder.github.io/FusionTable-Map-Template/iframe_test.html)
 
-[See the working demo &raquo;](http://derekeder.github.io/FusionTable-Map-Template/iframe_test.html)
+[See the working demo &raquo;](http://rishihada.github.io/FusionTable-Map-Template/iframe_test.html)
 
 This template works exactly the same way as the standard full screen template. All the javascript code is still contained in `js/maps_lib.js`.
 
