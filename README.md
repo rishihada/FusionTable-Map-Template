@@ -3,9 +3,9 @@ You want to put your data on a searchable, filterable map. This is a free, open 
 
 **Note** [Google now requires you to enable billing with a credit card and have a valid API key](https://cloud.google.com/maps-platform/user-guide/) for all Google API projects, including this one. [Read the guide on how these changes impact this template and instructions on getting your own API key](https://groups.google.com/forum/#!topic/fusion-table-map-template/JJMsd7wVQuM).
 
-[![Searchable Map Template screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-v1.2.jpg)](http://derekeder.github.io/FusionTable-Map-Template/)
+[![Searchable Map Template screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-v1.2.jpg)](http://rishihada.github.io/FusionTable-Map-Template/)
 
-[See the working demo &raquo;](http://derekeder.github.io/FusionTable-Map-Template/)
+[See the working demo &raquo;](http://rishihada.github.io/FusionTable-Map-Template/)
 
 ## Features
 
@@ -68,7 +68,7 @@ You can configure your map by passing in a dictionary of options when you create
 
 ```javascript
 var myMap = new MapsLib({
-  fusionTableId:      "1m4Ez9xyTGfY2CU6O-UgEcPzlS0rnzLU93e4Faa0",
+  fusionTableId:      "17w_ismAsQCSnGJ1kiVX6IxnGn7HQq7hTCbPR9tT2",
   googleApiKey:       "AIzaSyA3FQFrNr5W2OEVmuENqhb2MBB2JabdaOY",
   locationColumn:     "geometry",
   map_center:         [41.8781136, -87.66677856445312],
