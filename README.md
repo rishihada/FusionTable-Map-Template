@@ -71,7 +71,7 @@ var myMap = new MapsLib({
   fusionTableId:      "17w_ismAsQCSnGJ1kiVX6IxnGn7HQq7hTCbPR9tT2",
   googleApiKey:       "AIzaSyATokyYb1RQXwl3vYm3T4LhohRfdez6S1U",
   locationColumn:     "latitude",
-  map_center:         [28.8781136, 77.66677856445312],
+  map_center:         [28.4717136, 77.05966445312],
   locationScope:      "delhi"
 });
 ```
